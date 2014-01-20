@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[prevNext]]></title>
+	<author><![CDATA[Cyril Maguire]]></author>
+	<version>1.0</version>
+	<date>19/01/2014</date>
+	<site>http://www.ecyseo.net</site>
+	<description><![CDATA[Plugin pour afficher des liens article précédent/ article suivant au pied des articles]]></description>
+	<requirements></requirements>
+</document>
